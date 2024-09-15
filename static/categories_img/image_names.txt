@@ -1,0 +1,20 @@
+chanting_box.jpg
+god_idols.jpg
+healing)crystal.jpg
+urlis.jpg
+amethyst_150x.png
+Aura_cleansing_300x.png
+aura_quartz.png
+crystal-rings_150x.png
+Evil_Eye_300x.png
+lamps.png
+moonstone_300x.png
+pooja_thali.png
+Pyrite_300x.png
+rose-quartz.png
+
+
+
+
+
+dir *.jpg *.png *.jpeg /b > image_names.txt

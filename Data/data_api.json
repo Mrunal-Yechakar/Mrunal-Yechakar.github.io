@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "imglink": "./static/categories_img/chanting_box.jpg",
+      "id": 1,
+      "label": "CHANTING BOX"
+    },
+    {
+      "imglink": "./static/categories_img/god_idols.jpg",
+      "id": 2,
+      "label": "GOD IDOLS"
+    },
+    {
+      "imglink": "./static/categories_img/healing_crystal.jpg",
+      "id": 3,
+      "label": "HEALING CRYSTAL"
+    },
+    {
+      "imglink": "./static/categories_img/urlis.jpg",
+      "id": 4,
+      "label": "URLIS"
+    },
+    {
+      "imglink": "./static/categories_img/amethyst_150x.png",
+      "id": 5,
+      "label": "AMETHYST"
+    },
+    {
+      "imglink": "./static/categories_img/Aura_cleansing_300x.png",
+      "id": 6,
+      "label": "AURA CLEANSING"
+    },
+    {
+      "imglink": "./static/categories_img/aura_quartz.png",
+      "id": 7,
+      "label": "CLEAR QUARTZ"
+    },
+    {
+      "imglink": "./static/categories_img/crystal-rings_150x.png",
+      "id": 8,
+      "label": "CRYSTAL RINGS"
+    },
+    {
+      "imglink": "./static/categories_img/Evil_Eye_300x.png",
+      "id": 9,
+      "label": "EVIL EYE"
+    },
+    {
+      "imglink": "./static/categories_img/lamps.png",
+      "id": 10,
+      "label": "LAMPS"
+    },
+    {
+      "imglink": "./static/categories_img/moonstone_300x.png",
+      "id": 11,
+      "label": "MOONSTONE"
+    },
+    {
+      "imglink": "./static/categories_img/pooja_thali.png",
+      "id": 12,
+      "label": "POOJA THALI"
+    },
+    {
+      "imglink": "./static/categories_img/Pyrite_300x.png",
+      "id": 13,
+      "label": "PYRITE"
+    },
+    {
+      "imglink": "./static/categories_img/rose-quartz.png",
+      "id": 14,
+      "label": "ROSE QUARTZ"
+    }
+  ]
+
+}

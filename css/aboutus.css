@@ -1,0 +1,38 @@
+.about_box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    height: auto;
+    /* overflow: hidden; */
+    /* align-items: center; */
+}
+.about_box h3{
+    text-align: center;
+    
+}
+.about_box p{
+    text-align: justify;
+}
+.link_sml{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.link_sml button{
+    text-decoration: none;
+    color: #e85992;
+    border: none;
+    background-color: transparent; 
+    padding: 0;
+    cursor: pointer;
+
+}
+.about_container {
+    width: 100%;
+    height: 108px; 
+    overflow: hidden;
+    transition: height 0.3s ease; 
+}
+
+

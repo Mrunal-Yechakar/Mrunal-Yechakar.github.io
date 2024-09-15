@@ -1,0 +1,162 @@
+span{
+    color: #e85992;
+}
+.review-container {
+   
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.review_ab{
+    position: relative;
+    display: flex;
+    padding: 15px;
+    /* background-color: chocolate; */
+    
+}
+.average-review {
+    display: flex;
+    /* position: absolute; */
+    left: 0;
+    flex-direction: column;
+    align-items: center;
+}
+.avg_details{
+    gap: 10px;
+    display: flex;
+}
+.review_btn{
+    position: absolute;
+    right: 0;
+    top: 40%;
+}
+.avg_details p {
+    font-size: 15px;
+}
+.reviews_div{
+    display: flex;
+    position: relative;
+    padding: 20px;
+    /* background-color: aquamarine; */
+}
+.review-box {
+    display: flex;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    gap: 5px;
+    max-width: 100%;
+    /* border: 1px solid #ccc; */
+    /* padding: 10px; */
+    overflow: hidden;
+}
+.review {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid #ccc; */
+    /* padding: 10px; */
+    min-width: 250px;
+}
+.review p{
+    padding: 5px;
+    font-size: 12px;
+}
+.info-container{
+    /* position: relative; */
+    display: flex;
+    width: 100%;
+    
+}
+.img-container{
+    width: 25%;
+    padding: 5px;
+}
+.details-container{
+    display: flex;
+    /* position: relative; */
+    flex-direction: column;
+    width: 75%;
+    padding-top: 5px;
+
+}
+
+.img-container img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    /* margin-bottom: 10px; */
+    background-color: #e85992;
+}
+.name-container{
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+
+.stars-date-container{
+    display: flex;
+    /* position: absolute; */
+    left: 50%;
+}
+.stars {
+    color: #e85992;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+/* .write-review {
+    padding: 10px 20px;
+    background-color: #e85992;
+    color: white;
+    border: none;
+    cursor: pointer;
+} */
+.scroll-btn {
+    cursor: pointer;
+    font-size: 24px;
+    padding: 2px 10px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.205);
+}
+.scroll_position_left{
+    position: absolute;
+    left: 0;
+    top: 35%;
+}
+
+.scroll_position_right{
+    position: absolute;
+    right: 0;
+    top: 35%;
+}
+
+
+.write-review {
+    position: relative;
+    padding: 10px 20px;
+    background-color: #e85992;
+    color: white;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;  
+    border-radius: 20px; 
+}
+
+.write-review::before,
+.write-review::after {
+    content: '';
+    position: absolute;
+    width: 20px; 
+    height: 20px;
+    background-color: #e85992;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.write-review::before {
+    left: -10px; 
+}
+
+.write-review::after {
+    right: -10px; 
+}

@@ -1,0 +1,585 @@
+{
+  "Products": [
+      {
+          "category": "Festive Decor",
+          "categorydata": [
+              {
+                  "imagelink": "./static/festive_decor/2453c1715fc1c0037435938997acfd85_1d853f94-f9a3-4227-9e63-b72bf52da602.jpg",
+                  "price": 4999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 1,
+                  "hoverimagelink": "./static/festive_decor/DSC06247copy_225x.jpg",
+                  "offerprice": 3999,
+                  "offerpercentage": "NULL"
+              },
+              {
+                  "imagelink": "./static/festive_decor/DSC06424copy_225x.jpg",
+                  "price": 3999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 2,
+                  "hoverimagelink": "./static/festive_decor/DSC08660copy_225x.jpg",
+                  "offerprice": 3499,
+                  "offerpercentage": "12%"
+              },
+              {
+                  "imagelink": "./static/festive_decor/DSC08663copy_225x.jpg",
+                  "price": 3499,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 3,
+                  "hoverimagelink": "./static/festive_decor/DSC_5267_225x.jpg",
+                  "offerprice": 2999,
+                  "offerpercentage": "14%"
+              },
+              {
+                  "imagelink": "./static/festive_decor/7_fde57bc9-ccd4-4ca9-a7fc-4f40398cf6a8_225x.png",
+                  "price": 2999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 4,
+                  "hoverimagelink": "./static/festive_decor/pooja-room-decor_150x.png",
+                  "offerprice": 2499,
+                  "offerpercentage": "17%"
+              },
+              {
+                  "imagelink": "./static/festive_decor/urlis_150x.png",
+                  "price": 2499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 5,
+                  "hoverimagelink": "./static/festive_decor/urlis_300x.png",
+                  "offerprice": 1999,
+                  "offerpercentage": "20%"
+              }
+          ]
+      },
+      {
+          "category": "Pooja Essentials",
+          "categorydata": [
+              {
+                  "imagelink": "./static/Pooja_essentials/done-8copy_225x.jpg",
+                  "price": 4999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 6,
+                  "hoverimagelink": "./static/Pooja_essentials/DSC01707copy_225x.jpg",
+                  "offerprice": 4499,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/Pooja_essentials/DSC02198copy_89c47b24-e6e2-4f67-9dd8-e0dbc62421a4_225x.jpg",
+                  "price": 3999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 7,
+                  "hoverimagelink": "./static/Pooja_essentials/DSC02200copy_225x.jpg",
+                  "offerprice": 3199,
+                  "offerpercentage": "20%"
+              },
+              {
+                  "imagelink": "./static/Pooja_essentials/DSC02203copy_225x.jpg",
+                  "price": 3499,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 8,
+                  "hoverimagelink": "./static/Pooja_essentials/DSC02205copy_2c3c8ce5-31fd-456b-8e02-1fd24c18a610_225x.jpg",
+                  "offerprice": 2999,
+                  "offerpercentage": "14%"
+              },
+              {
+                  "imagelink": "./static/Pooja_essentials/DSC02206copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 9,
+                  "hoverimagelink": "./static/Pooja_essentials/DSC02209copy_225x.jpg",
+                  "offerprice": 2499,
+                  "offerpercentage": "17%"
+              },
+              {
+                  "imagelink": "./static/Pooja_essentials/DSC02211copy_225x.jpg",
+                  "price": 2499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 10,
+                  "hoverimagelink": "./static/Pooja_essentials/DSC02212copy_225x.jpg",
+                  "offerprice": 1999,
+                  "offerpercentage": "20%"
+              },
+              {
+                  "imagelink": "./static/Pooja_essentials/IMG_8478_grande_693579b0-2948-4a0a-9f24-f8ad362a6670.jpg",
+                  "price": 3999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 11,
+                  "hoverimagelink": "./static/Pooja_essentials/ShreeKrishna1_225x.jpg",
+                  "offerprice": 2999,
+                  "offerpercentage": "25%"
+              }
+          ]
+      },
+      {
+          "category": "Healing Crystals",
+          "categorydata": [
+              {
+                  "imagelink": "./static/healing_crystals/DSC01797copy_225x.jpg",
+                  "price": 3999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 17,
+                  "hoverimagelink": "./static/healing_crystals/DSC02248copy_225x.jpg",
+                  "offerprice": 2999,
+                  "offerpercentage": "25%"
+              },
+              {
+                  "imagelink": "./static/healing_crystals/DSC02251copy_225x.jpg",
+                  "price": 4999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 18,
+                  "hoverimagelink": "./static/healing_crystals/DSC_1643_225x.jpg",
+                  "offerprice": 4249,
+                  "offerpercentage": "15%"
+              },
+              {
+                  "imagelink": "./static/healing_crystals/DSC_4202_0de7e9a7-a8f8-4221-8c6b-55684a3a122f_225x.jpg",
+                  "price": 2999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 19,
+                  "hoverimagelink": "./static/healing_crystals/DSC_5029_225x.jpg",
+                  "offerprice": 2399,
+                  "offerpercentage": "20%"
+              },
+              {
+                  "imagelink": "./static/healing_crystals/DSC_5047_225x.jpg",
+                  "price": 4500,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 20,
+                  "hoverimagelink": "./static/healing_crystals/DSC_5050_225x.jpg",
+                  "offerprice": 3825,
+                  "offerpercentage": "15%"
+              },
+              {
+                  "imagelink": "./static/healing_crystals/DSC_5145_82b6d0ed-1b63-428a-aecd-db1a906d5234_225x.jpg",
+                  "price": 3499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 21,
+                  "hoverimagelink": "./static/healing_crystals/DSC_5653_d8396d94-c407-46b6-afc2-1ca55493483a_225x.jpg",
+                  "offerprice": 2974,
+                  "offerpercentage": "15%"
+              },
+              {
+                  "imagelink": "./static/healing_crystals/crystal-bracelets_150x.png",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 22,
+                  "hoverimagelink": "./static/healing_crystals/DSC02248copy_225x.jpg",
+                  "offerprice": 2499,
+                  "offerpercentage": "20%"
+              }
+          ]
+      },
+      {
+          "category": "Pooja Room Decor",
+          "categorydata": [
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_3901_copy_225x.jpg",
+                  "price": 4499,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 70,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_3904-2_copy_225x.jpg",
+                  "offerprice": 3999,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_3941_copyA1_225x.jpg",
+                  "price": 5599,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 71,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_3942_copyA1_225x.jpg",
+                  "offerprice": 5099,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_3960_copy_225x.jpg",
+                  "price": 4899,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 72,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_3962_copy_225x.jpg",
+                  "offerprice": 4399,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_3991_copy_225x.jpg",
+                  "price": 5799,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 73,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_3994-Edit_225x.jpg",
+                  "offerprice": 5299,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_4006-Edit_225x.jpg",
+                  "price": 6199,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 74,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_4007-Edit_225x.jpg",
+                  "offerprice": 5699,
+                  "offerpercentage": "8%"
+              },
+              {
+                  "imagelink": "./static/pooja_room_decor/DSC_3901_copy_225x.jpg",
+                  "price": 4499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 75,
+                  "hoverimagelink": "./static/pooja_room_decor/DSC_3904-2_copy_225x.jpg",
+                  "offerprice": 4099,
+                  "offerpercentage": "9%"
+              }
+          ]
+      },
+      {
+          "category": "Pooja Thali Sets",
+          "categorydata": [
+              {
+                  "imagelink": "./static/pooja_thali/14f23a117d5e86b4ee4c7cf2011be847.jpg",
+                  "price": 5499,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 63,
+                  "hoverimagelink": "./static/pooja_thali/DSC02740copy_225x.jpg",
+                  "offerprice": 4999,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/pooja_thali/DSC03613copy_225x.jpg",
+                  "price": 4699,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 64,
+                  "hoverimagelink": "./static/pooja_thali/DSC03615copy_225x.jpg",
+                  "offerprice": 4299,
+                  "offerpercentage": "8%"
+              },
+              {
+                  "imagelink": "./static/pooja_thali/DSC05691_copy_225x.jpg",
+                  "price": 3899,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 65,
+                  "hoverimagelink": "./static/pooja_thali/DSC05692_copy_225x.jpg",
+                  "offerprice": 3599,
+                  "offerpercentage": "7%"
+              },
+              {
+                  "imagelink": "./static/pooja_thali/DSC07408copy_e2d7d2a6-b0f5-454c-b3fa-f58d853f7b1c_225x.jpg",
+                  "price": 5999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 66,
+                  "hoverimagelink": "./static/pooja_thali/DSC08604_copy_225x.jpg",
+                  "offerprice": 5399,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/pooja_thali/DSC08615_copy_225x.jpg",
+                  "price": 3199,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 67,
+                  "hoverimagelink": "./static/pooja_thali/DSC09022_225x.jpg",
+                  "offerprice": 2899,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/pooja_thali/DSC_2235_225x.jpg",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 68,
+                  "hoverimagelink": "./static/pooja_thali/DSC_2239_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              }
+          ]
+      },
+      {
+          "category": "God Idols",
+          "categorydata": [
+              {
+                  "imagelink": "./static/god_idols/07ad8423003883c5fb2a65d7b5b36295_ede6296c-08bd-4f53-a3c5-ca95cea9a5f8.jpg",
+                  "price": 4999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 56,
+                  "hoverimagelink": "./static/god_idols/DSC07753copy_37fb861f-5a46-4403-ba47-1e5a19be7133_225x.jpg",
+                  "offerprice": 4599,
+                  "offerpercentage": "8%"
+              },
+              {
+                  "imagelink": "./static/god_idols/DSC07760copy_225x.jpg",
+                  "price": 3799,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 57,
+                  "hoverimagelink": "./static/god_idols/DSC07771copy_225x.jpg",
+                  "offerprice": 3399,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/god_idols/DSC07799copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 58,
+                  "hoverimagelink": "./static/god_idols/DSC07802copy_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/god_idols/DSC07807copy_225x.jpg",
+                  "price": 5299,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 59,
+                  "hoverimagelink": "./static/god_idols/jjjj_225x.jpg",
+                  "offerprice": 4799,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/god_idols/god-idols_150x.png",
+                  "price": 3499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 60,
+                  "hoverimagelink": "./static/god_idols/good_luck_gift_ideas_3653b0a4-b440-45f6-b084-e9ed7c3e193d.PNG",
+                  "offerprice": 3199,
+                  "offerpercentage": "8%"
+              },
+              {
+                  "imagelink": "./static/god_idols/07ad8423003883c5fb2a65d7b5b36295_ede6296c-08bd-4f53-a3c5-ca95cea9a5f8.jpg",
+                  "price": 3999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 61,
+                  "hoverimagelink": "./static/god_idols/DSC07802copy_225x.jpg",
+                  "offerprice": 3599,
+                  "offerpercentage": "10%"
+              }
+          ]
+      },
+      {
+          "category": "Evil Eye",
+          "categorydata": [
+              {
+                  "imagelink": "./static/evil_eyes/71uXmFAm5yL._SL1100__1_grande_7051fe45-0160-4071-bb60-50b7d58088cf.jpg",
+                  "price": 4799,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 49,
+                  "hoverimagelink": "./static/evil_eyes/DSC00680copy_225x.jpg",
+                  "offerprice": 4299,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/evil_eyes/DSC00682copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 50,
+                  "hoverimagelink": "./static/evil_eyes/DSC06818copy_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/evil_eyes/DSC06827copy_225x.jpg",
+                  "price": 3699,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 51,
+                  "hoverimagelink": "./static/evil_eyes/DSC06895copy_225x.jpg",
+                  "offerprice": 3299,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/evil_eyes/DSC06896copy_225x.jpg",
+                  "price": 5499,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 52,
+                  "hoverimagelink": "./static/evil_eyes/DSC09017copy_225x.jpg",
+                  "offerprice": 4999,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/evil_eyes/DSC09023copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 53,
+                  "hoverimagelink": "./static/evil_eyes/evil-eye-dream-catcher-for-positive-energy-and-protection-large-wall-hanging-434_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/evil_eyes/evil-eye-dream-catcher-for-positive-energy-and-protection-small-wall-hanging-853_225x.jpg",
+                  "price": 3899,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 54,
+                  "hoverimagelink": "./static/evil_eyes/evil-eye_150x.png",
+                  "offerprice": 3499,
+                  "offerpercentage": "13%"
+              }
+          ]
+      },
+      {
+          "category": "Salt Lamps",
+          "categorydata": [
+              {
+                  "imagelink": "./static/salt_lamps/2cc44f73f3668adbfdaac63bd7a2f44b_faba0d7b-16cf-428a-8707-ae445fd9a72b.jpg",
+                  "price": 4599,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 41,
+                  "hoverimagelink": "./static/salt_lamps/DSC00972copy_225x.jpg",
+                  "offerprice": 4099,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/salt_lamps/DSC00973copy_225x.jpg",
+                  "price": 2499,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 42,
+                  "hoverimagelink": "./static/salt_lamps/DSC00987copy_225x.jpg",
+                  "offerprice": 2199,
+                  "offerpercentage": "12%"
+              },
+              {
+                  "imagelink": "./static/salt_lamps/DSC00989copy_225x.jpg",
+                  "price": 3999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 43,
+                  "hoverimagelink": "./static/salt_lamps/DSC00991copy_225x.jpg",
+                  "offerprice": 3599,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/salt_lamps/DSC01721copy_0f8d19a1-aa46-4abf-91a9-d527127479b4_225x.jpg",
+                  "price": 5499,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 44,
+                  "hoverimagelink": "./static/salt_lamps/IMG_0252_225x.jpg",
+                  "offerprice": 4999,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/salt_lamps/IMG_0253_225x.jpg",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 45,
+                  "hoverimagelink": "./static/salt_lamps/IMG_0255_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/salt_lamps/IMG_0256_225x.jpg",
+                  "price": 3899,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 46,
+                  "hoverimagelink": "./static/salt_lamps/IMG_0298_225x.jpg",
+                  "offerprice": 3499,
+                  "offerpercentage": "13%"
+              }
+          ]
+      },
+      {
+          "category": "Urlis",
+          "categorydata": [
+              {
+                  "imagelink": "./static/urlis/2453c1715fc1c0037435938997acfd85_1d853f94-f9a3-4227-9e63-b72bf52da602.jpg",
+                  "price": 3499,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 23,
+                  "hoverimagelink": "./static/urlis/dd0717af2d281f59ff05d7dddff2d4ea_4ffa8c6a-24be-4761-b699-741daf9f8add.jpg",
+                  "offerprice": 2999,
+                  "offerpercentage": "15%"
+              },
+              {
+                  "imagelink": "./static/urlis/DSC03622copy_225x.jpg",
+                  "price": 3999,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 24,
+                  "hoverimagelink": "./static/urlis/DSC04199copy_225x.jpg",
+                  "offerprice": 3499,
+                  "offerpercentage": "12%"
+              },
+              {
+                  "imagelink": "./static/urlis/DSC04211copy_225x.jpg",
+                  "price": 4999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 25,
+                  "hoverimagelink": "./static/urlis/DSC04261copy_225x.jpg",
+                  "offerprice": 4499,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/urlis/DSC06247copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 26,
+                  "hoverimagelink": "./static/urlis/DSC06424copy_225x.jpg",
+                  "offerprice": 2499,
+                  "offerpercentage": "17%"
+              },
+              {
+                  "imagelink": "./static/urlis/DSC08660copy_225x.jpg",
+                  "price": 4499,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 27,
+                  "hoverimagelink": "./static/urlis/DSC08663copy_225x.jpg",
+                  "offerprice": 3999,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/urlis/DSC_5258_1_225x.jpg",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 28,
+                  "hoverimagelink": "./static/urlis/DSC_5267_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              }
+          ]
+      },
+      {
+          "category": "Table Linen",
+          "categorydata": [
+              {
+                  "imagelink": "./static/table_linen/DSC01467copy_2015ebe6-cc8d-4544-8dfc-e84b04ce09b0_225x.jpg",
+                  "price": 4599,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 34,
+                  "hoverimagelink": "./static/table_linen/DSC01471copy_eb4c9b87-b466-42a2-a2af-724a18f65d57_225x.jpg",
+                  "offerprice": 4099,
+                  "offerpercentage": "11%"
+              },
+              {
+                  "imagelink": "./static/table_linen/DSC01831copy_225x.jpg",
+                  "price": 2499,
+                  "name": "Traditional Golden Floral Urli",
+                  "id": 35,
+                  "hoverimagelink": "./static/table_linen/DSC01834copy_cb661f46-8e93-4c0a-9534-aca42bfd77bb_225x.jpg",
+                  "offerprice": 2199,
+                  "offerpercentage": "12%"
+              },
+              {
+                  "imagelink": "./static/table_linen/DSC03762copy_225x.jpg",
+                  "price": 3999,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 36,
+                  "hoverimagelink": "./static/table_linen/DSC03776copy_225x.jpg",
+                  "offerprice": 3599,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/table_linen/DSC03777copy_225x.jpg",
+                  "price": 5499,
+                  "name": "Aesthetic Floral Urli With Diya",
+                  "id": 37,
+                  "hoverimagelink": "./static/table_linen/DSC03808copy_225x.jpg",
+                  "offerprice": 4999,
+                  "offerpercentage": "9%"
+              },
+              {
+                  "imagelink": "./static/table_linen/DSC03809copy_225x.jpg",
+                  "price": 2999,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 38,
+                  "hoverimagelink": "./static/table_linen/DSC03824copy_225x.jpg",
+                  "offerprice": 2699,
+                  "offerpercentage": "10%"
+              },
+              {
+                  "imagelink": "./static/table_linen/DSC03845copy_225x.jpg",
+                  "price": 3899,
+                  "name": "Exquisite Layer Diya Urli Stand",
+                  "id": 39,
+                  "hoverimagelink": "./static/table_linen/DSC03846copy_225x.jpg",
+                  "offerprice": 3499,
+                  "offerpercentage": "13%"
+              }
+          ]
+      }
+  ]
+}

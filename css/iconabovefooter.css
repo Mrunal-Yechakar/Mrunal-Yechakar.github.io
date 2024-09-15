@@ -1,0 +1,41 @@
+
+.icon_container{
+    width: 100%;
+    display: flex;
+    padding: 15px 0px;
+    border-top: 0.2px solid rgb(170, 167, 167);
+    
+}
+.icon_container p{
+    font-size: 12px;
+}
+.speed_delivery_container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 33.3%;
+}
+.cash_on_delivery_container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 33.3%;
+
+}
+
+.easy_return_container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 33.3%;
+}
+.vertical_line{
+    height: 40px;
+    border-right: 1px solid rgb(97, 95, 95);
+}
