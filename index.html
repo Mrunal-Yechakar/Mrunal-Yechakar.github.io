@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="./static//image1.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Gift Home Decor, Pooja Samagri ,Rakhi ,Eco Friendly Ganesh & Diwali </title>
+
+    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="./css/navbar.css">
+    <link rel="stylesheet" href="./css/homevideo.css">
+    <link rel="stylesheet" href="./css/categories.css">
+    <link rel="stylesheet" href="./css/product.css">
+    <link rel="stylesheet" href="./css/reviews.css">
+    <link rel="stylesheet" href="./css/aboutus.css">
+    <link rel="stylesheet" href="./css/iconabovefooter.css">
+    <link rel="stylesheet" href="./css/footer.css">
+</head>
+<body>
+    <div class="container">
+        <!-- offer bar -->
+       <div class="offer_bar">
+          <h6>GET 10% OFF WITH CODE: ILOVEMPB</h6>
+       </div>
+      <!-- navbar container -->
+       <div id="navbar_container"></div>
+
+       <!-- home page video -->
+       <div id="video_container">
+        <div id="video_container">
+            <video id="myvideo" class="myvideo" autoplay muted></video>
+        </div>
+        
+       </div>
+       <!-- categories  -->
+        <div class="side_mr">
+       <div  class="categories_container" id="categories_container">
+        <button id="scroll_left" class="scroll_button"><i class="fa-solid fa-less-than"></i></button>
+        <div class="categories_content" id="categories_div"></div>
+        <button id="scroll_right" class="scroll_button"><i class="fa-solid fa-greater-than"></i></button>
+       </div>
+
+       <!-- Products  -->
+        <div class="products_container" id="products_container"></div>
+
+        <!-- reviews -->
+        <div class="review-container">
+            <div class="review_ab">
+                <div class="average-review">
+                    <div class="avg_details">
+                        <p id="average-rating">4.5 <span>★★★★☆</span></p>
+                        <p style="padding-top: 3px;">56 reviews</p>
+                    </div>
+                   <div class="g_reviews">
+                    <p>Powered By <span>Google</span></p>
+                   </div>  
+                </div>
+                <div class="review_btn">
+                    <button class="write-review">Write Review</button>
+                </div>
+
+            </div>
+            <div class="reviews_div">
+                <div class="scroll-btn scroll_position_left" onclick="scrollByAmount(-200)">&#10094;</div>
+            <div class="review-box" id="reviews-container">
+            </div>
+            <!-- Reviews will be displayed dynamically -->
+            <div class="scroll-btn scroll_position_right" onclick="scrollByAmount(200)">&#10095;</div>
+            </div>
+            </div>
+                        <!-- about us -->
+
+        <div class="about_container" id="about_container"></div>
+        <div class="link_sml">
+            <button id="showmoreless">Show More</button>
+        </div>
+        </div>
+
+        
+
+        <!-- icon above footer -->
+
+        <div class="icon_container" id="icon_container"></div>
+        <!-- footer container  -->
+        <div class="footer_container" id="footer_container"></div>
+
+    </div>
+     <!-- navbar -->
+     <script src="./scripts/navbarscript.js"></script>
+
+     <!-- scripts -->
+     <script src="./scripts/HomeVideo.js"></script>
+     <script src="./scripts/categpories.js"></script>
+     <script src="./scripts/Products.js"></script>
+     <script src="./scripts/reviews.js"></script>
+     <script src="./scripts/aboutus.js"></script>
+     <script src="./scripts/iconAbovefooter.js"></script>
+     <script src="./scripts/footer.js"></script>
+</body>
+</html>
